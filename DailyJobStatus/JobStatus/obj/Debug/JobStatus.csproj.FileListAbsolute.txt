@@ -1,0 +1,10 @@
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\bin\Debug\JobStatus.exe.config
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\bin\Debug\JobStatus.exe.manifest
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\bin\Debug\JobStatus.application
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\bin\Debug\JobStatus.exe
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\bin\Debug\JobStatus.pdb
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\obj\Debug\JobStatus.csprojResolveAssemblyReference.cache
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\obj\Debug\JobStatus.exe.manifest
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\obj\Debug\JobStatus.application
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\obj\Debug\JobStatus.exe
+D:\Sara\JobStatus\DailyJobStatus\JobStatus\obj\Debug\JobStatus.pdb
